@@ -161,4 +161,4 @@ To turn recent growth into **sustainable, profitable performance**, the recommen
 1. **Maintain growth while protecting price and margin** – monitor discounting closely and extend the dashboard to include cost and profitability metrics.  
 2. **Optimise the product and segment mix** – double-down on SUVs and Hatchbacks for volume while using Sedans and Passenger cars as premium, higher-margin offers.  
 3. **Systematically leverage dealer and regional best practice** – identify high-performing dealers and regions and scale their approaches across the network.  
-4. **Refine customer strategy by income and gender** – design targeted propositions for different income tiers and actively grow engagement with female buyers.
+4. **Refine customer strategy by income** – design targeted propositions for different income tiers.
