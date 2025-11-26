@@ -40,8 +40,6 @@ The analysis focuses on:
 
 ![Car Sales Overview](https://github.com/VivianNg9/PowerBI-Project/blob/main/PowerBI-Car-Sales-Analysis/image/image1.png)
 
-**Key observations**
-
 - Total sales increased from around **$300.3M in 2022** to **$371.2M in 2023** – approximately **23.6% revenue growth**.
 - Units sold increased from **10,645 cars in 2022** to **13,261 in 2023** – about **24.6% growth in volume**.
 - The **average selling price** dipped slightly from **$28.2K** to **$28.0K** (around **–0.8%**), indicating that growth is **volume-led** rather than price-led.
@@ -62,8 +60,6 @@ The analysis focuses on:
 ## 2️⃣ Insight: Portfolio Mix - Which car types and brands create the most value?
 
 ![Car Types & Brand Mix](https://github.com/VivianNg9/PowerBI-Project/blob/main/PowerBI-Car-Sales-Analysis/image/image2.png)
-
-**Key observations**
 
 - In 2023, revenue is concentrated in **SUVs and Hatchbacks**:  
   - **SUVs:** ≈ **$99.9M** (**26.9%** of 2023 sales, 3,728 cars, avg price ≈ **$26.8K**).  
@@ -93,8 +89,6 @@ The analysis focuses on:
 
 ![Dealer Insights](https://github.com/VivianNg9/PowerBI-Project/blob/main/PowerBI-Car-Sales-Analysis/image/image3.png)
 
-**Key observations**
-
 - **Rabun Used Car Sales** is the **top dealer**, achieving approximately **$20.7M** in 2023 sales from **730 cars**, with strong year-on-year growth.
 - Several other dealers – such as **Progressive Shippers Cooperative Association**, **Saab-Belle Dodge**, **U-Haul CO** and **Tri-State Mack Inc** – also deliver **$19–20M+** each, forming a **high-performing core group**.
 - All seven regions show healthy growth between **20–26%** from 2022 to 2023:  
@@ -119,28 +113,30 @@ The analysis focuses on:
 
 ![Customer & Income Behaviour](https://github.com/VivianNg9/PowerBI-Project/blob/main/PowerBI-Car-Sales-Analysis/image/image4.png)
 
-**Key observations**
+- Across both years, **Sedan and Passenger cars sit at the top of the price range** (around \$29–30K) and are increasingly purchased by **higher-income customers**. In 2023, Passenger buyers move into the highest income bracket on the chart (~\$880K).
+- **Hardtops** are also positioned in the higher-price band, with buyer income slightly below Sedan/Passenger but still clearly above the SUV segment.
+- **SUVs and Hatchbacks remain the “value” options**, with lower average prices (~\$27K) and buyers clustered in **mid-income brackets**.
+- From 2022 to 2023 there is a **mix shift in income by segment**:  
+  - Passenger and Sedan buyers move **up the income scale**, reinforcing their role as more premium choices.  
+  - SUV and Hatchback buyers shift **towards slightly lower income brackets**, while prices stay relatively stable – signalling **growing price sensitivity** in these volume segments.
+- YOY, **average prices by body style change very little**, so the chart is showing a **change in who is buying each segment**, not a major repricing of the portfolio.
 
-- The customer base expands from **~2,020 unique buyers in 2022** to **~2,638 in 2023** – around **31% growth in customers**, outpacing the growth in cars sold.
-- As a result, cars per customer edge down slightly (from **5.27 to 5.03**), indicating that growth is increasingly driven by **new customers entering the franchise**, not just repeat purchases.
-- The dataset is **male-skewed**: around **78.6% of purchases are made by male customers** and **21.4% by female customers**, highlighting an opportunity to better engage female buyers.
-- Average annual income across the customer base is high (median ≈ **$735K**, average ≈ **$831K**), but differs slightly by body style in 2023:  
-  - **Hatchback and Sedan buyers** show the **highest average income** (~**$840K** and **$821K**, respectively).  
-  - **Passenger car buyers** have slightly lower average income (~**$773K**), despite similar or higher average prices compared to SUVs.  
-  - **SUV and Hardtop** sit in the middle, appealing to a broad range of income levels.  
-- The **Spending Behaviour** scatterplot (car type vs income) shows that **higher-income buyers gravitate towards higher-priced Sedans and Passenger cars**, while **SUVs and Hatchbacks** attract a mix of mid- to high-income customers at lower price points.
-
- ➝ The brand is successfully widening its customer base, particularly among **higher-income segments**, but there is a significant **gender imbalance** and an opportunity to refine positioning by income tier and car type.
+➝ The brand is now serving **distinct income tiers by body style**: premium Sedans/Passenger cars for higher-income buyers, and value-oriented SUVs/Hatchbacks for mid-income customers. This creates clear opportunities to fine-tune positioning, pricing and upgrade paths by segment.
 
 **Next 12-month focus areas**
 
-- **Target:** Expand presence among **female buyers**.  
-  – Develop marketing, showroom experiences and financing offers that speak directly to this segment, particularly in SUV and Hatchback categories.  
-- **Target:** Build differentiated propositions for **income tiers**.  
-  – For higher-income buyers: premium Sedans and Passenger cars with upgraded features, concierge-style service and long-term warranty packages.  
-  – For mid-income buyers: value-led SUV and Hatchback offers with transparent pricing and cost-of-ownership messaging.  
-- **Target:** Strengthen early-life customer journeys.  
-  – Use CRM and dealer follow-up processes to convert first-time buyers into long-term relationships (service retention, trade-in programs, upgrade offers).  
+- **Target:** Strengthen the premium proposition for high-income buyers.  
+  – Emphasise comfort, technology and ownership experience for **Sedan and Passenger** segments (e.g. packages, extended warranty, concierge-style servicing).
+
+- **Target:** Protect margin while remaining competitive in mid-income segments.  
+  – Use **SUV and Hatchback** as accessible entry points with clear value messaging and smart bundling, rather than heavy discounting.
+
+- **Target:** Design upgrade and cross-sell pathways between segments.  
+  – Use CRM and dealer follow-up to move growing mid-income SUV/Hatchback owners into **higher-value Sedans/Passenger cars** over time (trade-in and upgrade programs).
+
+
+
+
 
 ---
 
